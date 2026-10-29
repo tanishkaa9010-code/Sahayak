@@ -1,0 +1,6 @@
+{
+  "name": "Sahayak - AI Document & Life-Admin Copilot",
+  "description": "Empowering citizens to decode complex paperwork, notices, bills, and prescriptions with plain-language action plans, scam detection, voice guidance, and multi-lingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
